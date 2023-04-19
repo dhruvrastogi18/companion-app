@@ -1,5 +1,4 @@
 # Companion App 
-Below is a general description of the project, you can find indications about how to test it afterwatds:
 
 A smart journaling desktop application to help you track your mood and take better care of your mental health.  
 
