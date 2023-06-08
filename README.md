@@ -42,7 +42,7 @@ Here is an example of the application's UI:
   
 ##### File processing :
 Handles the saving, loading and encryption of files.
-- Dhruv (Studied AES Encryption and applied)
+- Dhruv (Studied AES Encryption)
 - Shaurya (File Handling)
 
 ##### Writing research Paper:
